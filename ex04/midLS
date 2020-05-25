@@ -1,0 +1,4 @@
+cd ..
+lt -mt
+
+exit 0
