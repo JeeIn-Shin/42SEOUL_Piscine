@@ -1,6 +1,5 @@
-jeeshin@42SEOUL.KR   API:97FCC 
-    Name                 Cache name                                 Expires
-* jeeshin@42SEOUL.KR   API:97FCC052-1AD9-4E9D-98B7-2D986D970B64   May 25 23:23:02 2020
-  jeeshin@42SEOUL.KR   API:AFAB1C2F-BBDF-42CE-9EDD-7FCDAD45EAA9   May 25 22:36:15 2020
-  jeeshin@42SEOUL.KR   API:3DA7CDBF-AC84-4D10-8496-3B04019D1303   May 25 20:50:45 2020
-  jeeshin@42SEOUL.KR   API:11A1441F-15BC-441C-85BF-6A680F4F1A79   May 25 20:39:58 2020
+Credentials cache: API:1099D30C-BAC5-4395-8C86-6170AFB384CA
+        Principal: jeeshin@42SEOUL.KR
+
+  Issued                Expires               Principal
+May 26 14:18:10 2020  May 27 00:18:10 2020  krbtgt/42SEOUL.KR@42SEOUL.KR

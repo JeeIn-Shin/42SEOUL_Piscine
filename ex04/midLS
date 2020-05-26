@@ -1,4 +1,1 @@
-cd ..
-lt -mt
-
-exit 0
+ls -Umpt
