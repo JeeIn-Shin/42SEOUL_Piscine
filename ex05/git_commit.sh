@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git log --pretty=format:"%H" -5 
+git log --pretty="%H" -5
 
 exit 0
