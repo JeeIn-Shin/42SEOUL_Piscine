@@ -1,5 +1,0 @@
-Credentials cache: API:1099D30C-BAC5-4395-8C86-6170AFB384CA
-        Principal: jeeshin@42SEOUL.KR
-
-  Issued                Expires               Principal
-May 26 14:18:10 2020  May 27 00:18:10 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
